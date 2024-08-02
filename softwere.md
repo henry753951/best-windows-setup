@@ -1,88 +1,115 @@
-## File
+# File and System Tools
+
+## Compression and File Management
 - *7-Zip
 - *Bandizip
-## System
+- *WizTree
+
+## Cleaning and Optimization
+- *CCleaner
+- Easy Context Menu
+
+## System Monitoring and Management
 - NZXT CAM
 - Razer Synapse
 - NVIDIA Apps
 - ASUS GPU Tweak III
 - ASUS Armoury Crate
 - ASUS SONIC STUDIO
-## unsorted
-- *CCleaner
-- *PowerToys
-- Wallpaper Engine
-- MagicPods # For AirPods connection
-- TuneBlade # AirPlay
-- *Wiztree # File tree view
+- DisplayWidget Center
 - *CrystalDiskInfo
-- Easy Context Menu
 
-## unnamed
-- *Adobe Acrobat Reader DC
-- Office
-- Figma
-- Adobe Creative Cloud
-- DaVinci Resolve
+## Unsorted
+- iCloud
+- iTunes
+- Synology Drive
+
+---
+
+# Communication and Social
 
 ## Communication
 - *Discord
 
-## Player
-- Cider 2
-- PotPlayerMini64
+---
 
-## Browser
+# Browsers and Networking
+
+## Browsers
 - *Google Chrome
 - *Microsoft Edge
 - *Opera
 - Arc
 
----
-# Development
-## Programming
-- *Python
-- *Rust
-- *Go
-- *node
-- *pnpm
-- *C / C++
-- *dotnet
-- *java
-## Terminal & Remote
-- *Termius
-- *MoaXterm
-- *TeamViewer
-## Editor
-- *NotePad++
-- *Visual studio code
-- Visual studio
 ## VPN
 - *ZeroTier
 - *Tailscale
-- *Cloudflare warp
+- *Cloudflare Warp
 - *Wireguard
 - UniFi Identity
 - Fortinet
-## Kubernetes
-- Lens / Aptakube
-## Docker
-- Docker Desktop
-- Docker
-
-## unsored
-- *powershell 7
-- *Chocolatey
-- *GIT
-- *Oh My Posh
-- *balena-etcher
-- Cloudflared
 
 ---
+
+# Multimedia
+
+## Media Players
+- PotPlayerMini64
+- Cider 2
+
+## Visual and Audio
+- Wallpaper Engine
+- MagicPods # For AirPods connection
+- TuneBlade # AirPlay
+
+---
+
+# Development Tools
+
+## Programming Languages and Frameworks
+- *Python
+- *Rust
+- *Go
+- *Node.js
+- *pnpm
+- *C / C++
+- *dotnet
+- *Java
+
+## Editors and IDEs
+- *Notepad++
+- *Visual Studio Code
+- Visual Studio
+- Figma
+- Adobe Creative Cloud
+- DaVinci Resolve
+
+## Terminal and Remote Tools
+- *Termius
+- *MobaXterm
+- *TeamViewer
+
+## Developer Tools
+- *PowerShell 7
+- *Chocolatey
+- *Git
+- *Oh My Posh
+- *Cloudflared
+- Balena Etcher
+
+## Containers and Orchestration
+- Docker Desktop
+- Docker
+- Lens / Aptakube
+
+---
+
 # Gaming
-## Gaming tools
+
+## Gaming Tools
 - Overwolf
-## Game launchers
+
+## Game Launchers
 - Playnite 
 - Riot
 - Ubisoft
@@ -92,12 +119,11 @@
 - Battle.net
 - Xbox Game Pass
 
-
 ---
 
-# Un sorted
-- iCloud
-- iTunes
-- Synology Drive
+# Productivity Tools
 
+## Office and Design
+- *Adobe Acrobat Reader DC
+- Office
 
