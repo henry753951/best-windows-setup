@@ -11,7 +11,7 @@ choco install -y 7zip.install
 choco install -y bandizip
 choco install -y notepadplusplus
 choco install -y wiztree
-choco install -y ccleaner
+choco install -y geekuninstaller
 choco install -y crystaldiskinfo
 choco install -y adobereader
 choco install -y teamviewer

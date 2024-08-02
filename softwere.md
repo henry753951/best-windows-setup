@@ -6,8 +6,9 @@
 - *WizTree
 
 ## Cleaning and Optimization
-- *CCleaner
 - Easy Context Menu
+- pcmanager.microsoft.com
+- *Geek Uninstaller
 
 ## System Monitoring and Management
 - NZXT CAM

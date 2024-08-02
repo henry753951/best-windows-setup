@@ -1,0 +1,74 @@
+{
+    "$help": "https://aka.ms/terminal-documentation",
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "actions": 
+    [
+        {
+            "command": 
+            {
+                "action": "splitPane",
+                "split": "auto",
+                "splitMode": "duplicate"
+            },
+            "keys": "alt+shift+d"
+        },
+        {
+            "command": "find",
+            "keys": "ctrl+shift+f"
+        },
+        {
+            "command": "paste",
+            "keys": "ctrl+v"
+        },
+        {
+            "command": 
+            {
+                "action": "copy",
+                "singleLine": false
+            },
+            "keys": "ctrl+c"
+        }
+    ],
+    "alwaysShowNotificationIcon": true,
+    "copyFormatting": "none",
+    "copyOnSelect": false,
+    "defaultProfile": "<CHANGE THIS TO DEFAULT>",
+    "newTabMenu": 
+    [
+        {
+            "type": "remainingProfiles"
+        }
+    ],
+    "profiles": 
+    {
+        "defaults": 
+        {
+            "antialiasingMode": "cleartype",
+            "backgroundImage": null,
+            "backgroundImageOpacity": 0.5,
+            "colorScheme": "One Half Dark",
+            "experimental.retroTerminalEffect": false,
+            "font": 
+            {
+                "face": "Hack Nerd Font",
+                "weight": "medium"
+            },
+            "opacity": 79,
+            "scrollbarState": "hidden",
+            "suppressApplicationTitle": false,
+            "useAcrylic": true
+        },
+        "list": 
+        [
+            // <CHANGE THIS>
+        ]
+    },
+    "schemes": 
+    [
+      // <CHANGE THIS>
+    ],
+    "tabWidthMode": "equal",
+    "theme": "system",
+    "themes": [],
+    "useAcrylicInTabRow": false
+}

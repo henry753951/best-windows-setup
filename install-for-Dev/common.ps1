@@ -13,6 +13,10 @@ choco install -y mobaxterm
 # Editor
 choco install -y vscode
 
+# Font
+scoop bucket add nerd-fonts
+scoop install nerd-fonts/Hack-NF-Mono
+
 # oh-my-posh
 scoop install main/oh-my-posh
 RefreshEnv
